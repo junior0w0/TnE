@@ -1,0 +1,529 @@
+CRITICAL - 2024-06-23 11:38:27 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:38:27 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:38:28 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:38:35 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:38:36 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:38:36 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:38:43 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:38:45 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:39:49 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:39:53 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:40:45 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:40:53 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:41:08 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: front]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:41:35 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: front]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:42:48 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: front]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:42:49 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: front]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:42:49 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: front]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:43:25 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: front]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:44:37 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:44:38 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:45:38 --> Error: Class "App\Controllers\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:47:00 --> Error: Class "App\Model\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:47:01 --> Error: Class "App\Model\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:47:02 --> Error: Class "App\Model\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:47:03 --> Error: Class "App\Model\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:48:01 --> Error: Class "App\Model\Menu" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Frontoffice.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:49:02 --> Error: Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\Database.php on line 139.
+ 1 SYSTEMPATH\Database\Database.php(57): CodeIgniter\Database\Database->initDriver()
+ 2 SYSTEMPATH\Database\Config.php(84): CodeIgniter\Database\Database->load()
+ 3 SYSTEMPATH\Model.php(155): CodeIgniter\Database\Config::connect()
+ 4 APPPATH\Controllers\Frontoffice.php(13): CodeIgniter\Model->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:49:09 --> Error: Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\Database.php on line 139.
+ 1 SYSTEMPATH\Database\Database.php(57): CodeIgniter\Database\Database->initDriver()
+ 2 SYSTEMPATH\Database\Config.php(84): CodeIgniter\Database\Database->load()
+ 3 SYSTEMPATH\Model.php(155): CodeIgniter\Database\Config::connect()
+ 4 APPPATH\Controllers\Frontoffice.php(13): CodeIgniter\Model->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:50:35 --> Error: Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\Database.php on line 139.
+ 1 SYSTEMPATH\Database\Database.php(57): CodeIgniter\Database\Database->initDriver()
+ 2 SYSTEMPATH\Database\Config.php(84): CodeIgniter\Database\Database->load()
+ 3 SYSTEMPATH\Model.php(155): CodeIgniter\Database\Config::connect()
+ 4 APPPATH\Controllers\Frontoffice.php(13): CodeIgniter\Model->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:50:36 --> Error: Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\Database.php on line 139.
+ 1 SYSTEMPATH\Database\Database.php(57): CodeIgniter\Database\Database->initDriver()
+ 2 SYSTEMPATH\Database\Config.php(84): CodeIgniter\Database\Database->load()
+ 3 SYSTEMPATH\Model.php(155): CodeIgniter\Database\Config::connect()
+ 4 APPPATH\Controllers\Frontoffice.php(13): CodeIgniter\Model->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:50:37 --> Error: Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\Database.php on line 139.
+ 1 SYSTEMPATH\Database\Database.php(57): CodeIgniter\Database\Database->initDriver()
+ 2 SYSTEMPATH\Database\Config.php(84): CodeIgniter\Database\Database->load()
+ 3 SYSTEMPATH\Model.php(155): CodeIgniter\Database\Config::connect()
+ 4 APPPATH\Controllers\Frontoffice.php(13): CodeIgniter\Model->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:50:38 --> Error: Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\Database.php on line 139.
+ 1 SYSTEMPATH\Database\Database.php(57): CodeIgniter\Database\Database->initDriver()
+ 2 SYSTEMPATH\Database\Config.php(84): CodeIgniter\Database\Database->load()
+ 3 SYSTEMPATH\Model.php(155): CodeIgniter\Database\Config::connect()
+ 4 APPPATH\Controllers\Frontoffice.php(13): CodeIgniter\Model->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:50:39 --> Error: Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\Database.php on line 139.
+ 1 SYSTEMPATH\Database\Database.php(57): CodeIgniter\Database\Database->initDriver()
+ 2 SYSTEMPATH\Database\Config.php(84): CodeIgniter\Database\Database->load()
+ 3 SYSTEMPATH\Model.php(155): CodeIgniter\Database\Config::connect()
+ 4 APPPATH\Controllers\Frontoffice.php(13): CodeIgniter\Model->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:51:13 --> Error: Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\Database.php on line 139.
+ 1 SYSTEMPATH\Database\Database.php(57): CodeIgniter\Database\Database->initDriver()
+ 2 SYSTEMPATH\Database\Config.php(84): CodeIgniter\Database\Database->load()
+ 3 SYSTEMPATH\Model.php(155): CodeIgniter\Database\Config::connect()
+ 4 APPPATH\Controllers\Frontoffice.php(13): CodeIgniter\Model->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:51:20 --> Error: Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\Database.php on line 139.
+ 1 SYSTEMPATH\Database\Database.php(57): CodeIgniter\Database\Database->initDriver()
+ 2 SYSTEMPATH\Database\Config.php(84): CodeIgniter\Database\Database->load()
+ 3 SYSTEMPATH\Model.php(155): CodeIgniter\Database\Config::connect()
+ 4 APPPATH\Controllers\Frontoffice.php(13): CodeIgniter\Model->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:51:26 --> Error: Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\Database.php on line 139.
+ 1 SYSTEMPATH\Database\Database.php(57): CodeIgniter\Database\Database->initDriver()
+ 2 SYSTEMPATH\Database\Config.php(84): CodeIgniter\Database\Database->load()
+ 3 SYSTEMPATH\Model.php(155): CodeIgniter\Database\Config::connect()
+ 4 APPPATH\Controllers\Frontoffice.php(13): CodeIgniter\Model->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 11:53:16 --> Error: Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\Database.php on line 139.
+ 1 SYSTEMPATH\Database\Database.php(57): CodeIgniter\Database\Database->initDriver()
+ 2 SYSTEMPATH\Database\Config.php(84): CodeIgniter\Database\Database->load()
+ 3 SYSTEMPATH\Model.php(155): CodeIgniter\Database\Config::connect()
+ 4 APPPATH\Controllers\Frontoffice.php(13): CodeIgniter\Model->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 12:20:44 --> ParseError: syntax error, unexpected token "foreach"
+[Method: GET, Route: /]
+in APPPATH\Views\front_office.php on line 49.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH\Controllers\Frontoffice.php(17): view()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 12:21:27 --> ParseError: syntax error, unexpected token "foreach"
+[Method: GET, Route: /]
+in APPPATH\Views\front_office.php on line 49.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render()
+ 3 APPPATH\Controllers\Frontoffice.php(17): view()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 12:22:08 --> ErrorException: Attempt to read property "img_url" on array
+[Method: GET, Route: /]
+in APPPATH\Views\front_office.php on line 52.
+ 1 APPPATH\Views\front_office.php(52): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\M S I\\Documents\\CODE\\FP\\app\\Views\\front_office.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Frontoffice.php(17): view()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 12:45:58 --> Error: Call to undefined function money_format()
+[Method: GET, Route: /]
+in APPPATH\Views\front_office.php on line 66.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render()
+ 4 APPPATH\Controllers\Frontoffice.php(17): view()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 13:25:29 --> ErrorException: Array to string conversion
+[Method: GET, Route: /]
+in APPPATH\Views\front_office.php on line 86.
+ 1 APPPATH\Views\front_office.php(86): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\M S I\\Documents\\CODE\\FP\\app\\Views\\front_office.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Frontoffice.php(19): view()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 13:32:43 --> ErrorException: Array to string conversion
+[Method: GET, Route: /]
+in APPPATH\Views\front_office.php on line 86.
+ 1 APPPATH\Views\front_office.php(86): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\M S I\\Documents\\CODE\\FP\\app\\Views\\front_office.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Frontoffice.php(19): view()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 13:33:25 --> ErrorException: Undefined array key "category_name"
+[Method: GET, Route: /]
+in APPPATH\Views\front_office.php on line 86.
+ 1 APPPATH\Views\front_office.php(86): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\M S I\\Documents\\CODE\\FP\\app\\Views\\front_office.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Frontoffice.php(19): view()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
+CRITICAL - 2024-06-23 14:16:51 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: /]
+in APPPATH\Views\front_office.php on line 55.
+ 1 APPPATH\Views\front_office.php(55): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\M S I\\Documents\\CODE\\FP\\app\\Views\\front_office.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\Frontoffice.php(19): view()
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Frontoffice->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\M S I\\Documents\\CODE\\FP\\public\\index.php')
